@@ -1,3 +1,5 @@
+**This project has not been finished yet**
+
 # Seat-Booking App
 This is a project of a Seat Booking App implemented using vanilla `JavaScript`. It can be easily adjusted to be used in any project that needs to have a simple **seat-reservation system**. Please note that this project is not finished yet.
 
